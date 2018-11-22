@@ -1,7 +1,7 @@
 pong
 ====
 
-A simple Pong game.
+Simple Pong game.
 
 It's written using the Processing language.
 
